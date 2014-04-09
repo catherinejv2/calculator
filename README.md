@@ -27,3 +27,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Badges
+
+[![Build Status](https://travis-ci.org/catherinejv2/calculator.svg?branch=master)](https://travis-ci.org/catherinejv2/calculator)
+
+[![Coverage Status](https://coveralls.io/repos/catherinejv2/calculator/badge.png)](https://coveralls.io/r/catherinejv2/calculator)
