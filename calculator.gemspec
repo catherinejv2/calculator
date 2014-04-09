@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Calculator::VERSION
   spec.authors       = ['Catherine Armstrong']
   spec.email         = ['catherine@sportsdatallc.com']
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = ['simple ruby gem to work through some concepts']
+  spec.summary       = ['add, subtract, multiple, divide sets of numbers']
   spec.homepage      = ''
   spec.license       = 'MIT'
 
@@ -27,4 +27,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'pry'
   spec.add_development_dependency 'pry-remote'
   spec.add_development_dependency 'pry-nav'
+  spec.add_development_dependency 'coveralls'
 end

@@ -1,7 +1,19 @@
 require 'spec_helper'
 
 describe Calculator do
-    it 'does stuff' do
-        pending # no code yet
+    it 'adds two numbers' do
+        pending
+    end
+
+    it 'subtracts two numbers' do
+        pending
+    end
+
+    it 'multiples two numbers' do
+        pending
+    end
+
+    it 'divides two numbers 'do
+        pending
     end
 end
